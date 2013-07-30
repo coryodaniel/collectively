@@ -10,6 +10,6 @@ module ActiveRecord
   end
 end
 
+module Collectively;end;
 require 'collectively/base'
 require 'collectively/acts_as_collectively'
-module Collectively;end;
