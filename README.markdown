@@ -1,9 +1,11 @@
 Collectively
 ====================
 
-Add methods to ActiveRecord relations and collections. 
+A simple gem for adding methods to ActiveRecord relations and collections. 
 
 Great for quickly adding statistical methods to subsets of results from ActiveRecord.
+
+Support for Rails 3.2+ and 4.0+
 
 Usage
 ---------------------
